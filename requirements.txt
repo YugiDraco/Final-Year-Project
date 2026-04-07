@@ -1,0 +1,25 @@
+# 🧪 AI Forensic System Dependencies
+
+# Core Image & Math
+opencv-python
+numpy
+pillow
+scipy
+matplotlib
+
+# Learning & Vision
+torch
+torchvision
+torchaudio
+
+# Web UI
+gradio
+
+# Dataset & APIs
+kagglehub
+google-generativeai
+datasets
+huggingface-hub
+
+# Optional: MTCNN support for faces
+# facenet-pytorch  (Install separately if Python <= 3.12)

@@ -1,0 +1,30 @@
+# 🧪 Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# 📊 Data & Reports
+Dataset/
+input_images/
+output_reports/
+preprocessed_images/
+unzip_*/
+*.zip
+*.log
+
+# 🏗️ Models (Only ignore if very large, but our EfficientNet is 16MB)
+# deepfake_efficientnet.pth
+
+# ⚙️ OS & IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 🔬 Gradio
+.gradio/
